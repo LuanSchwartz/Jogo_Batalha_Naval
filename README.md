@@ -1,14 +1,14 @@
-🎮 Batalha Naval — Versão Terminal (Python)
+#🎮 Batalha Naval — Versão Terminal (Python)
 
-Um jogo clássico de Batalha Naval, totalmente jogável pelo terminal, com cores, sistema de munição, ranking e posicionamento aleatório de embarcações. Desenvolvido em Python.
+#Um jogo clássico de Batalha Naval, totalmente jogável pelo terminal, com cores, sistema de munição, ranking e posicionamento aleatório de embarcações. Desenvolvido em Python.
 
-📌 Funcionalidades
+#📌 Funcionalidades
 
-🗺️ Tabuleiro 10x15 com coordenadas alfanuméricas
+#🗺️ Tabuleiro 10x15 com coordenadas alfanuméricas
 
-🚢 4 tipos de embarcações:
+#🚢 4 tipos de embarcações:
 
-P — Porta-aviões (4 células)
+#P — Porta-aviões (4 células)
 
 A — Avião (3 células)
 
